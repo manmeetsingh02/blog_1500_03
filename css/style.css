@@ -2,6 +2,15 @@ body{
 text-align: center;
 background-color: darkgray;
 }
+h1{
+    font-size: 80px;
+    font-style: normal;
+}
+h2{
+    font-size: 50px;
+    font-style: normal;
+
+}
 a{
 font-size: 20px;
 font-style: normal;
@@ -12,14 +21,35 @@ font-size: 20px;
 
 }
 p{
-font-size: 20px;
+font-size: 15px;
 font-family: Arial, Helvetica, sans-serif;
 padding-left: initial;
 margin-top: 20px;
+text-align: center;
 
+}
+h3{
+
+    font-size: 50px;
+    font-style: normal;
 
 
 }
+a{
+    font-size: 20px;
+    font-style: normal;
+    }
 
-
+    time{
+    font-style: normal;
+    font-size: 20px;
+    
+    }
+    p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: initial;
+    margin-top: 20px;
+    text-align:center;
+    }
 
