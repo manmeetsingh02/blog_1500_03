@@ -2,6 +2,10 @@ body{
 text-align: center;
 background-color: darkgray;
 }
+img{
+    height: 700px;
+    width: 1400px;
+}
 h1{
     font-size: 80px;
     font-style: normal;
@@ -78,4 +82,27 @@ a{
         text-align:center;
         }
     
-    
+        h5{
+
+            font-size: 50px;
+            font-style: normal;
+        
+        }
+        
+        a{
+            font-size: 20px;
+            font-style: normal;
+            }
+        
+            time{
+            font-style: normal;
+            font-size: 20px;
+            
+            }
+            p{
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 20px;
+            margin-top: 20px;
+            text-align: center;
+            }
